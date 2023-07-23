@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm r3dw1zz</h1>
 <h3 align="center">A passionate CTF Player and Cybersecurity Student</h3>
 
-- 📫 How to reach me **r3dw1zz@proton.me**
+- 📫 How to reach me: **r3dw1zz@proton.me**
 
 <p align="left">
 </p>
